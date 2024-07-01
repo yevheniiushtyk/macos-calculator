@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="https://fonts.cdnfonts.com/css/sf-pro-display">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="calculator">
+        <div class="top-bar">
+            <div class="dot-container">
+                <div class="dot red">
+                    <div class="icon">×</div>
+                </div>
+                <div class="dot yellow">
+                    <div class="icon">−</div>
+                </div>
+                <div class="dot green">
+                    <div class="icon">+</div>
+                </div>
+            </div>
+        </div>
+        <div class="display">
+            <div class="result">0</div>
+        </div>
+        <div class="buttons">
+            <button class="button function" id="clear" data-key="Escape">AC</button>
+            <button class="button function" data-key="+/-">+/-</button>
+            <button class="button function" data-key="%">%</button>
+            <button class="button operator" data-key="÷" data-operator="÷">÷</button>
+            <button class="button number" data-key="7">7</button>
+            <button class="button number" data-key="8">8</button>
+            <button class="button number" data-key="9">9</button>
+            <button class="button operator" data-key="×" data-operator="×">×</button>
+            <button class="button number" data-key="4">4</button>
+            <button class="button number" data-key="5">5</button>
+            <button class="button number" data-key="6">6</button>
+            <button class="button operator" data-key="-" data-operator="-">-</button>
+            <button class="button number" data-key="1">1</button>
+            <button class="button number" data-key="2">2</button>
+            <button class="button number" data-key="3">3</button>
+            <button class="button operator" data-key="+" data-operator="+">+</button>
+            <button class="button number zero" data-key="0">0</button>
+            <button class="button number" data-key="comma">,</button>
+            <button class="button operator" data-key="=" data-operator="=">=</button>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
