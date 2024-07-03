@@ -4,23 +4,12 @@ This project is a faithful replication of the macOS calculator, built using HTML
 
 ## 📖 Table of Contents
 
-1. **[🚀 Features](#-features)**
-2. **[🎮 Demo](#-demo)**
-3. **[🛠️ Installation](#️-installation)**
-4. **[📚 Usage](#-usage)**
-5. **[🤝 Contributing](#-contributing)**
-6. **[📜 License](#-license)**
-7. **[🌟 Acknowledgments](#-acknowledgments)**
-
-## 🚀 Features
-
-- Basic arithmetic operations: addition, subtraction, multiplication, and division
-- Percentage calculation
-- Positive/negative toggle
-- Decimal input
-- Clear and All Clear functionalities
-- Responsive design that adjusts to different screen sizes
-- Keyboard support for enhanced usability
+1. **[🎮 Demo](#-demo)**
+2. **[🛠️ Installation](#️-installation)**
+3. **[📚 Usage](#-usage)**
+4. **[🤝 Contributing](#-contributing)**
+5. **[📜 License](#-license)**
+6. **[🌟 Acknowledgments](#-acknowledgments)**
 
 ## 🎮 Demo
 
